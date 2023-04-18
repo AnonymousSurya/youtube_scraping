@@ -1,16 +1,18 @@
-# lab-flask
+# Youtube Scraping
+The deployment link is given below:
 
-<!-- ![image](https://user-images.githubusercontent.com/115451707/196919992-edcfea8b-e3f6-4f35-9398-43be66b5622d.png) -->
+""
 
+Scraped youtube for
 
-To run flask application 
+i)- Video URL of the first five videos.
 
-```
-python app.py
-```
+ii)- URL of the video thumbnails of the first five videos.
 
+iii)- Title of the first five videos.
 
-To access your flask application open new tab in and paste the url:
-```
-https://{your_url}.pwskills.app:5000/
-```
+iv)- The number of views of the first five videos.
+
+v)- The time of posting of video for the first five videos.
+
+Note: Then we saved all the data scraped in a CSV file.
